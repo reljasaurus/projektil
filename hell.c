@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 	int main (void) {
-		printf("shell WORLD");
+		printf("Goodbye WORLD");
 
 		return 0;
 	}	
